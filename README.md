@@ -1,2 +1,2 @@
-# 806-Final-Project-Clean
-Emotion based music and video analysis
+# 806-Final-Project
+Emotion based music, video and fan interaction application.
